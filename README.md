@@ -74,8 +74,8 @@ word、ppt、excel的自动组卷可费了我不少劲，主要是学习jacob和poi这两个开源工具的类
 
 附上地址：
 
-![Jacob](https://github.com/WiseWolfs/examOnline/tree/master/JACOB)
-![POI](https://github.com/WiseWolfs/examOnline/tree/master/POI)
+[Jacob](https://github.com/WiseWolfs/examOnline/tree/master/JACOB)
+[POI](https://github.com/WiseWolfs/examOnline/tree/master/POI)
 
 
 ##交流与学习
