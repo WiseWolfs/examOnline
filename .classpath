@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/迅雷下载/【源代码】实战突击：Java+Web项目整合开发/【源代码】实战突击：Java Web项目整合开发/14/WebRoot/WEB-INF/lib/jspSmartUpload.jar"/>
+	<classpathentry kind="lib" path="F:/迅雷下载/【源代码】实战突击：Java+Web项目整合开发/【源代码】实战突击：Java Web项目整合开发/14/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

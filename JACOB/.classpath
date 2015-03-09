@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Sun JDK 1.6.0_13"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/jacob_1.9/jacob_1.9/jacob.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/dom4j-1.6.1/dom4j-1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Downloads/dom4j-1.6.1/dom4j-1.6.1/lib/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
